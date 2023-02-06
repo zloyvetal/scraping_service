@@ -1,6 +1,5 @@
-# example-service
+# Scraping service
 
-Scraping service 
 
 ## Getting Started
 
