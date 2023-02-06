@@ -17,7 +17,7 @@ git clone https://github.com/zloyvetal/scraping_service.git
 cd scraping_service
 ```
 
-* Install the dependencies and compile the protobuf file:
+* Install the dependencies and start db:
 
 ```
 pip3 install -r requirements.txt
