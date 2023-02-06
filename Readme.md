@@ -17,13 +17,12 @@ git clone https://github.com/zloyvetal/scraping_service.git
 cd scraping_service
 ```
 
-* Install the dependencies and start db:
+* Install the dependencies:
 
 ```
 pip3 install -r requirements.txt
 ```
 
-RUN DB #?! 
 
 ### Running
 
