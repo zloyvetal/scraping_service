@@ -37,3 +37,4 @@ if u neeed to drop db and create new one:
 
 * test.http contain three get examples
 * http://localhost:8000/docs has info about api and validation
+* open games_2023.csv - this is result of parsing url - "https://www.gamepressure.com/games/games_release_dates.asp?CZA=6"
